@@ -9,21 +9,21 @@ RepoIQ would be a web application where the user can paste a GitHub repository l
 ## For Whom?
 
 Users for RepoIQ include and arent limited to:
-    - Software developers joining a new project at work
-    - Students interning at a new company
-    - Software developers contributing to an open source project
-    - And much more!
+- Software developers joining a new project at work
+- Students interning at a new company
+- Software developers contributing to an open source project
+- And more..
 
 ## How?
 
 Users would upload a GitHub repository, and RepoIQ would analyze its structure and generate an interactive map of the codebase.
 
 From the map, users could:
-    - View important files, functions, classes, and dependencies
-    - See how different parts of the repository connect
-    - Select a file or function to see what depends on it
-    - Search the repository using simple questions such as “Where is authentication handled?”
-    - Navigate directly from the visualization to relevant source code
+- View important files, functions, classes, and dependencies
+- See how different parts of the repository connect
+- Select a file or function to see what depends on it
+- Search the repository using simple questions such as “Where is authentication handled?”
+- Navigate directly from the visualization to relevant source code
 
 ## Scope
 
